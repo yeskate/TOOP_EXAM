@@ -1,0 +1,10 @@
+АндрееваТА/professor
+ВолковАА/participant/1/0/физика
+ПакВГ/professor
+КрасноваСН/participant/1/-1/дизайн
+ПетровВА/participant/4/7/программирование,математика
+ЛихачёваПВ/participant/2/0/математика,дизайн
+КалайдаАВ/participant/2/2/транспорт,русский
+БровченкоЕД/participant/2/0/транспорт,математика,русский
+ХазовВК/professor/План развития городского транспорта (Urban Transport Plan)
+admin/admin
